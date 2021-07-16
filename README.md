@@ -1,5 +1,5 @@
-# fxserver-esx_skin
-FXServer ESX Skin
+# Script Original From ESX-Org
+FXServer ESX Skin  | Chema Leaks
 
 [REQUIREMENTS]
 
@@ -8,9 +8,7 @@ FXServer ESX Skin
 [INSTALLATION]
 
 1) CD in your resources/[esx] folder
-2) Clone the repository
-```
-git clone https://github.com/FXServer-ESX/fxserver-esx_skin esx_skin
+
 ```
 3) Add this in your server.cfg :
 
