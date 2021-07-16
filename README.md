@@ -12,6 +12,5 @@ FXServer ESX Skin  | Chema Leaks
 ```
 3) Add this in your server.cfg :
 
-```
 start esx_skin
 ```
